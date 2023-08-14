@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{D20600F9-099C-4FD6-A0F7-D30A7786D0C5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClockClassMain/Program.cs">
+    <Files>
+      <File FileName="ClockClassMain/Program.cs" Line="1" Column="1" />
+      <File FileName="ClockClass/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="CounterTaskTest/UnitTest1.cs" Line="37" Column="31" />
+      <File FileName="CounterTaskTest/Usings.cs" />
+      <File FileName="ClockClassMain/Clock.cs" Line="1" Column="1" />
+      <File FileName="ClockClass/Usings.cs" Line="1" Column="1" />
+      <File FileName="../../2.2P - Counter Class/CounterTask/CounterTask/Counter.cs" Line="2" Column="22" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClockClass" expanded="True">
+            <Node name="ClockClassMain">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="CounterTask" expanded="True" />
+            <Node name="CounterTaskTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ClockClass">
+            <Node name="ClockClassTest" expanded="True">
+              <Node name="ClockClassTest" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="CounterTaskTest" expanded="True">
+              <Node name="CounterTaskTest" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CounterTaskTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ClockClassTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CounterTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ClockClassMain PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

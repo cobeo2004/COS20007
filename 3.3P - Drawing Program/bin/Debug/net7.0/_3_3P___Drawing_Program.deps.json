@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "_3_3P___Drawing_Program/1.0.0": {
+        "runtime": {
+          "_3_3P___Drawing_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_3_3P___Drawing_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

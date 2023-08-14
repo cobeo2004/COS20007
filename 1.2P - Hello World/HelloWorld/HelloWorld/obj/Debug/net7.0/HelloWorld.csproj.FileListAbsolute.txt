@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/1.2P - Hello World/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll

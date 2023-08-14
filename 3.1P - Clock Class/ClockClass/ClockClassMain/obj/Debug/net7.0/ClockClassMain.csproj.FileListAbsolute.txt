@@ -1,0 +1,51 @@
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.deps.json
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.deps.json
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.runtimeconfig.json
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.dll
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.pdb
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.dll
+/Users/cobeo/Projects/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.pdb
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.csproj.AssemblyReference.cache
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.AssemblyInfoInputs.cache
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.AssemblyInfo.cs
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.csproj.CoreCompileInputs.cache
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.csproj.CopyComplete
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.dll
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/refint/ClockClassMain.dll
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.pdb
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.genruntimeconfig.cache
+/Users/cobeo/Projects/ClockClass/ClockClassMain/obj/Debug/net7.0/ref/ClockClassMain.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/ClockClassMain.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/bin/Debug/net7.0/CounterTask.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.csproj.CopyComplete
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/refint/ClockClassMain.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ClockClassMain.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/Debug/net7.0/ref/ClockClassMain.dll

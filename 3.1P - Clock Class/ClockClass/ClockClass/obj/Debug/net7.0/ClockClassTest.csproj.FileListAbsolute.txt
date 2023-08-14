@@ -1,0 +1,227 @@
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.deps.json
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.runtimeconfig.json
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.deps.json
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/nunit.engine.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.deps.json
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.runtimeconfig.json
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.pdb
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/testhost.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/nunit.framework.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.pdb
+/Users/cobeo/Projects/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.pdb
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.csproj.AssemblyReference.cache
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.AssemblyInfoInputs.cache
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.AssemblyInfo.cs
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.csproj.CoreCompileInputs.cache
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.csproj.CopyComplete
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/refint/ClockClassTest.dll
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.pdb
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.genruntimeconfig.cache
+/Users/cobeo/Projects/ClockClass/ClockClass/obj/Debug/net7.0/ref/ClockClassTest.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/refint/ClockClassTest.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/nunit.engine.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassTest.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/testhost.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/nunit.framework.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/ClockClassMain.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/bin/Debug/net7.0/CounterTask.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.csproj.CopyComplete
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ClockClassTest.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClass/obj/Debug/net7.0/ref/ClockClassTest.dll

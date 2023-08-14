@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{23B453BA-87E9-485B-8E98-242ACBF49B44}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NUnitTemplate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUnitTemplate/UnitTest1.cs">
+    <Files>
+      <File FileName="NUnitTemplate/UnitTest1.cs" Line="11" Column="15" />
+      <File FileName="NUnitTemplate/SimpleMath.cs" Line="32" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NUnitTemplate" expanded="True">
+            <Node name="NUnitTemplate" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NUnitTemplate">
+            <Node name="NUnitTemplate" expanded="True" selected="True">
+              <Node name="NUnitTests" expanded="True">
+                <Node name="NUnitTemplate" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/bin/Debug/net7.0/Demo
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/bin/Debug/net7.0/Demo.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/bin/Debug/net7.0/Demo.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/bin/Debug/net7.0/Demo.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/bin/Debug/net7.0/Demo.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/refint/Demo.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/Demo.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.1P - In-Person Test/Demo/obj/Debug/net7.0/ref/Demo.dll

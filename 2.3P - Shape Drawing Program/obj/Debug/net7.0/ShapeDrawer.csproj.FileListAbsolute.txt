@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/bin/Debug/net7.0/ShapeDrawer
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/bin/Debug/net7.0/ShapeDrawer.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/bin/Debug/net7.0/ShapeDrawer.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/bin/Debug/net7.0/ShapeDrawer.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/bin/Debug/net7.0/ShapeDrawer.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/refint/ShapeDrawer.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ShapeDrawer.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.3P - Shape Drawing Program/obj/Debug/net7.0/ref/ShapeDrawer.dll

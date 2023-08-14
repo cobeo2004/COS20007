@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/refint/CounterTask.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/Debug/net7.0/ref/CounterTask.dll

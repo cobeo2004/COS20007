@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/bin/Debug/net7.0/DrawingMultipleShape
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/bin/Debug/net7.0/DrawingMultipleShape.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/bin/Debug/net7.0/DrawingMultipleShape.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/bin/Debug/net7.0/DrawingMultipleShape.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/bin/Debug/net7.0/DrawingMultipleShape.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/refint/DrawingMultipleShape.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/DrawingMultipleShape.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.1P - Drawing Multiple Shape/obj/Debug/net7.0/ref/DrawingMultipleShape.dll

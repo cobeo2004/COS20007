@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/ClockClassMain.csproj": {}
+  },
+  "projects": {
+    "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/CounterTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/CounterTask.csproj",
+        "projectName": "CounterTask",
+        "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/CounterTask.csproj",
+        "packagesPath": "/Users/cobeo/.nuget/packages/",
+        "outputPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cobeo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/ClockClassMain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/ClockClassMain.csproj",
+        "projectName": "ClockClassMain",
+        "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/ClockClassMain.csproj",
+        "packagesPath": "/Users/cobeo/.nuget/packages/",
+        "outputPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.1P - Clock Class/ClockClass/ClockClassMain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cobeo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/CounterTask.csproj": {
+                "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.2P - Counter Class/CounterTask/CounterTask/CounterTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

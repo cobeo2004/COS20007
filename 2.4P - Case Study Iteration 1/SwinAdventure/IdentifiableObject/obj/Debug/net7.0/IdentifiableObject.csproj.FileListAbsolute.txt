@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/refint/IdentifiableObject.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/obj/Debug/net7.0/ref/IdentifiableObject.dll

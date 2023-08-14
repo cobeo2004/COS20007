@@ -1,0 +1,10 @@
+/Users/cobeo/Projects/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.csproj.AssemblyReference.cache
+/Users/cobeo/Projects/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Projects/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/cobeo/Projects/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.AssemblyInfo.cs
+/Users/cobeo/Projects/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.csproj.CoreCompileInputs.cache

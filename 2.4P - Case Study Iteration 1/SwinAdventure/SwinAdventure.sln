@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifiableObjectTest", "SwinAdventure\IdentifiableObjectTest.csproj", "{705B14BE-DA28-447E-9E15-EECBF9E0975A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifiableObject", "IdentifiableObject\IdentifiableObject.csproj", "{A6DED7CD-957D-49ED-88C1-8AE0DD1B7E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705B14BE-DA28-447E-9E15-EECBF9E0975A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705B14BE-DA28-447E-9E15-EECBF9E0975A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705B14BE-DA28-447E-9E15-EECBF9E0975A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705B14BE-DA28-447E-9E15-EECBF9E0975A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6DED7CD-957D-49ED-88C1-8AE0DD1B7E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DED7CD-957D-49ED-88C1-8AE0DD1B7E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DED7CD-957D-49ED-88C1-8AE0DD1B7E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DED7CD-957D-49ED-88C1-8AE0DD1B7E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267A0D89-B640-4479-AAF0-F6FDBB1BD3D6}
+	EndGlobalSection
+EndGlobal

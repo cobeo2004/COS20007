@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/bin/Debug/net7.0/_3_3P___Drawing_Program
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/bin/Debug/net7.0/_3_3P___Drawing_Program.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/bin/Debug/net7.0/_3_3P___Drawing_Program.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/bin/Debug/net7.0/_3_3P___Drawing_Program.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/bin/Debug/net7.0/_3_3P___Drawing_Program.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/refint/_3_3P___Drawing_Program.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/_3_3P___Drawing_Program.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/3.3P - Drawing Program/obj/Debug/net7.0/ref/_3_3P___Drawing_Program.dll
