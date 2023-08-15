@@ -28,14 +28,6 @@ namespace SwinAdventure
 			}
 		}
 
-		public List<string> AllIdentifiers
-		{
-			get
-			{
-				return _identifiers;
-			}
-		}
-
 		public void AddIdentifiers(string id)
 		{
 			_identifiers.Add(id.ToLower());

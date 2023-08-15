@@ -10,6 +10,7 @@ global using System.Linq;
 
 namespace SwinAdventure
 {
+    [TestFixture]
     public class IdentifiableObjectTest
     {
         private IdentifiableObject _testIdentifiableObject;
