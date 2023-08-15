@@ -4,15 +4,11 @@ using SplashKitSDK;
 namespace DrawingProgram
 {
     public class Program
-    {
-        private const string _title = "Drawing Program";
-        private const int _width = 800;
-        private const int _height = 600;
-
+    { 
         public static void Main()
         {
             Drawing drawing = new Drawing();
-            Window window = new Window(_title, _width, _height);
+            Window window = new Window("Shape Drawing 3.3P", 800, 600);
 
             while(!window.CloseRequested)
             {

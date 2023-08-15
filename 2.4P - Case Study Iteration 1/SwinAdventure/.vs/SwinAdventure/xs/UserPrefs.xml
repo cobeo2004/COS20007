@@ -1,35 +1,27 @@
-﻿<Properties StartupConfiguration="{705B14BE-DA28-447E-9E15-EECBF9E0975A}|Unit Tests">
+﻿<Properties StartupConfiguration="{705B14BE-DA28-447E-9E15-EECBF9E0975A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/UnitTest1.cs">
     <Files>
-      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="IdentifiableObject/Program.cs" Line="11" Column="57" />
-      <File FileName="IdentifiableObject/IdentifiableObject.cs" Line="14" Column="35" />
-      <File FileName="SwinAdventure/UnitTest1.cs" Line="8" Column="1" />
+      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObject/IdentifiableObject.cs" Line="29" Column="4" />
+      <File FileName="SwinAdventure/UnitTest1.cs" Line="19" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SwinAdventure" expanded="True">
-            <Node name="IdentifiableObjectTest">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="UnitTest1.cs" selected="True" />
-            </Node>
+          <Node name="SwinAdventure">
+            <Node name="IdentifiableObject" expanded="True" />
+            <Node name="IdentifiableObjectTest" expanded="True" />
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="SwinAdventure" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
