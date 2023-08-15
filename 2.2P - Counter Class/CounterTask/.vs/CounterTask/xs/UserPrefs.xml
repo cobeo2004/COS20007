@@ -1,26 +1,15 @@
 ﻿<Properties StartupConfiguration="{E81FB8E1-BA57-401F-9C13-83F460AEEF05}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CounterTask PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CounterTask/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CounterTask/Counter.cs">
     <Files>
       <File FileName="CounterTask/Program.cs" Line="3" Column="1" />
-      <File FileName="CounterTask/Counter.cs" Line="5" Column="3" />
+      <File FileName="CounterTask/Counter.cs" Line="20" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="CounterTask" expanded="True">
-            <Node name="CounterTask" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CounterTask PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
