@@ -51,7 +51,7 @@ namespace DrawingProgram
 
         public override bool IsAt(Point2D pt)
         {
-            return SplashKit.PointInRectangle(pt, SplashKit.RectangleFrom(X, Y, _width, _height)) ? true : false;
+            return SplashKit.PointInRectangle(pt, SplashKit.RectangleFrom(X, Y, _width, _height));
         }
 
         public override void DrawOutline()

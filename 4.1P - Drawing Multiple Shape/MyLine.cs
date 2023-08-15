@@ -59,7 +59,7 @@ namespace DrawingProgram
 
         public override bool IsAt(Point2D pt)
         {
-            return SplashKit.PointOnLine(pt, SplashKit.LineFrom(X, Y, _endX, _endY)) ? true : false;
+            return SplashKit.PointOnLine(pt, SplashKit.LineFrom(X, Y, _endX, _endY));
         }
     }
 }

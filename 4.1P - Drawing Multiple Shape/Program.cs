@@ -6,10 +6,6 @@ namespace DrawingMultipleShape
 {
     public class Program
     {
-        private const int _width = 800;
-        private const int _height = 600;
-        private const string _title = "DrawingShape";
-
         private enum ShapeKind
         {
             Rectangle,
@@ -21,7 +17,7 @@ namespace DrawingMultipleShape
         {
             Drawing drawing = new Drawing();
             ShapeKind kindToAdd = ShapeKind.Rectangle;
-            Window window = new Window(_title, _width, _height);
+            Window window = new Window("Drawing Shape 4.1P", 800, 600);
             while(!window.CloseRequested)
             {
                 SplashKit.ProcessEvents();
