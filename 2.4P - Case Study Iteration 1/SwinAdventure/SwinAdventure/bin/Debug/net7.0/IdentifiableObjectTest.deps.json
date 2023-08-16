@@ -9,7 +9,7 @@
       "IdentifiableObjectTest/1.0.0": {
         "dependencies": {
           "IdentifiableObject": "1.0.0",
-          "Microsoft.NET.Test.Sdk": "17.6.3",
+          "Microsoft.NET.Test.Sdk": "17.7.0",
           "NUnit": "3.13.3",
           "NUnit.Analyzers": "3.6.1",
           "NUnit3TestAdapter": "4.5.0",
@@ -20,22 +20,22 @@
         }
       },
       "coverlet.collector/6.0.0": {},
-      "Microsoft.CodeCoverage/17.6.3": {
+      "Microsoft.CodeCoverage/17.7.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "17.600.1423.27404"
+            "fileVersion": "17.700.423.36401"
           }
         }
       },
-      "Microsoft.NET.Test.Sdk/17.6.3": {
+      "Microsoft.NET.Test.Sdk/17.7.0": {
         "dependencies": {
-          "Microsoft.CodeCoverage": "17.6.3",
-          "Microsoft.TestPlatform.TestHost": "17.6.3"
+          "Microsoft.CodeCoverage": "17.7.0",
+          "Microsoft.TestPlatform.TestHost": "17.7.0"
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
-      "Microsoft.TestPlatform.ObjectModel/17.6.3": {
+      "Microsoft.TestPlatform.ObjectModel/17.7.0": {
         "dependencies": {
           "NuGet.Frameworks": "6.5.0",
           "System.Reflection.Metadata": "1.6.0"
@@ -43,15 +43,15 @@
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           },
           "lib/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           },
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           }
         },
         "resources": {
@@ -135,31 +135,31 @@
           }
         }
       },
-      "Microsoft.TestPlatform.TestHost/17.6.3": {
+      "Microsoft.TestPlatform.TestHost/17.7.0": {
         "dependencies": {
-          "Microsoft.TestPlatform.ObjectModel": "17.6.3",
+          "Microsoft.TestPlatform.ObjectModel": "17.7.0",
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           },
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           },
           "lib/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           },
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           },
           "lib/netcoreapp3.1/testhost.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.700.23.40405"
           }
         },
         "resources": {
@@ -337,19 +337,19 @@
       "path": "coverlet.collector/6.0.0",
       "hashPath": "coverlet.collector.6.0.0.nupkg.sha512"
     },
-    "Microsoft.CodeCoverage/17.6.3": {
+    "Microsoft.CodeCoverage/17.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Gorg6F1dOxlI28yHYKhbQ3pOOfHeW6sUfsmwFQFaIV+xttUAZ+l8KarHIfsR+rBAnjY9VH71BXvPXBuObCkXsw==",
-      "path": "microsoft.codecoverage/17.6.3",
-      "hashPath": "microsoft.codecoverage.17.6.3.nupkg.sha512"
+      "sha512": "sha512-oBZHjl2Y10ERfZUjQf9IPxqDBghKm7/V3naA+mgIK5y+dtcJyPw7Px530jTFoWQTryzgxVGPSdf9wvEJ+K7Zgw==",
+      "path": "microsoft.codecoverage/17.7.0",
+      "hashPath": "microsoft.codecoverage.17.7.0.nupkg.sha512"
     },
-    "Microsoft.NET.Test.Sdk/17.6.3": {
+    "Microsoft.NET.Test.Sdk/17.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-MglaNTl646dC2xpHKotSk1xscmHO5uV3x3NK057IUA9BM3Wgl16WMEb9ptGczk518JfLd1+Th5OAYwnoWgHQQQ==",
-      "path": "microsoft.net.test.sdk/17.6.3",
-      "hashPath": "microsoft.net.test.sdk.17.6.3.nupkg.sha512"
+      "sha512": "sha512-sEhKSZqPYWCLbOvdwG1g0hW0FHzm8P+1T7e/WpueaKXDbeKm6NkWCdN/wYmowyExtOgcxEZQs0pKGZHQPTIc1Q==",
+      "path": "microsoft.net.test.sdk/17.7.0",
+      "hashPath": "microsoft.net.test.sdk.17.7.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
@@ -358,19 +358,19 @@
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
     },
-    "Microsoft.TestPlatform.ObjectModel/17.6.3": {
+    "Microsoft.TestPlatform.ObjectModel/17.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gSqtX3RvcFisaLPs6sKXdZkSwUix83NQ9nOU/w6pYrHTl+d8GsVHSL9rvDNxMgoV5BNOdyU7zK7JOfbSaVMDWQ==",
-      "path": "microsoft.testplatform.objectmodel/17.6.3",
-      "hashPath": "microsoft.testplatform.objectmodel.17.6.3.nupkg.sha512"
+      "sha512": "sha512-wHzM3AM5K0XZQIh+E+/qM3EvDWxZh984LPQGOe4oVOo4/OWZe9rAMzX9+Ws6NwKoaaUyXHXIx+7QW3BINQ7hUQ==",
+      "path": "microsoft.testplatform.objectmodel/17.7.0",
+      "hashPath": "microsoft.testplatform.objectmodel.17.7.0.nupkg.sha512"
     },
-    "Microsoft.TestPlatform.TestHost/17.6.3": {
+    "Microsoft.TestPlatform.TestHost/17.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lrgRXKFfIZSPlhuoQGLtciO/osL+4oADYEYb0d5or7n7YyJATIWespq3lRgz2IQpRh6N7cm0DnCOWeZiCRGzxA==",
-      "path": "microsoft.testplatform.testhost/17.6.3",
-      "hashPath": "microsoft.testplatform.testhost.17.6.3.nupkg.sha512"
+      "sha512": "sha512-UUTU0zo9kirI/MObGuaeG/8VfgJEBkW/+laGflgWWWgehKgfOyZOXNUjEa4AXV/f9rorOh9Jvw6ZPVFpXclfug==",
+      "path": "microsoft.testplatform.testhost/17.7.0",
+      "hashPath": "microsoft.testplatform.testhost.17.7.0.nupkg.sha512"
     },
     "NETStandard.Library/2.0.0": {
       "type": "package",
