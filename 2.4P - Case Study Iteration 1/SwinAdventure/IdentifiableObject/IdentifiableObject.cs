@@ -24,7 +24,14 @@ namespace SwinAdventure
         {
             get
             {
-                return _identifiers.Count == 0 ? "" : _identifiers.First();
+                if (_identifiers.Count == 0)
+                {
+                    return "";
+                }
+                else
+                {
+                    return _identifiers.First();
+                }
             }
         }
 
