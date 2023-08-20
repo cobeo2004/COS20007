@@ -1,25 +1,34 @@
-﻿<Properties StartupConfiguration="{8CE4C69D-E510-45A5-BFC7-ED6169877629}|Default">
+﻿<Properties StartupConfiguration="{8CE4C69D-E510-45A5-BFC7-ED6169877629}|Unit Tests">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/UnitTest1.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObject/IdentifiableObject.cs">
     <Files>
-      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
-      <File FileName="IdentifiableObject/IdentifiableObject.cs" Line="29" Column="4" />
-      <File FileName="SwinAdventure/UnitTest1.cs" Line="19" Column="18" />
+      <File FileName="SwinAdventure/Usings.cs" Line="4" Column="26" />
+      <File FileName="SwinAdventure/UnitTest1.cs" Line="16" Column="22" />
+      <File FileName="SwinAdventure/IdentifiableObjectTest.csproj" Line="2" Column="1" />
+      <File FileName="IdentifiableObject/Program.cs" Line="31" Column="21" />
+      <File FileName="IdentifiableObject/Program.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SwinAdventure">
-            <Node name="IdentifiableObject" expanded="True" />
-            <Node name="IdentifiableObjectTest" expanded="True" />
+          <Node name="SwinAdventure" selected="True">
+            <Node name="IdentifiableObjectTest" expanded="True">
+              <Node name="SwinAdventure" expanded="True">
+                <Node name="IdentifiableObjectTest" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.IdentifiableObject FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
