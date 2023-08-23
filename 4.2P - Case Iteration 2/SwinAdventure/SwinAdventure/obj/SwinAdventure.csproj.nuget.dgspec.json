@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {}
+    "/workspaces/COS20007/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {}
   },
   "projects": {
-    "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
+    "/workspaces/COS20007/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "projectUniqueName": "/workspaces/COS20007/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
         "projectName": "SwinAdventure",
-        "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
-        "packagesPath": "/Users/cobeo/.nuget/packages/",
-        "outputPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/obj/",
+        "projectPath": "/workspaces/COS20007/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/SwinAdventure.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/COS20007/4.2P - Case Iteration 2/SwinAdventure/SwinAdventure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cobeo/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }
