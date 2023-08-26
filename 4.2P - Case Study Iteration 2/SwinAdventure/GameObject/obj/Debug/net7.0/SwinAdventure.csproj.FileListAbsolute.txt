@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/bin/Debug/net7.0/SwinAdventure
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/bin/Debug/net7.0/SwinAdventure.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/bin/Debug/net7.0/SwinAdventure.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/bin/Debug/net7.0/SwinAdventure.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/bin/Debug/net7.0/SwinAdventure.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/refint/SwinAdventure.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/SwinAdventure.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/obj/Debug/net7.0/ref/SwinAdventure.dll

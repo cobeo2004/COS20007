@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{EBAC186A-8753-446E-BE41-4967F66B3567}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/InventoryTest.cs">
+    <Files>
+      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
+      <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/IdentifiableObject.cs" Line="11" Column="47" />
+      <File FileName="GameObject/Program.cs" Line="16" Column="2" />
+      <File FileName="GameObject/GameObject.cs" Line="28" Column="45" />
+      <File FileName="GameObject/IdentifiableObject.cs" Line="18" Column="38" />
+      <File FileName="GameObject/Item.cs" Line="11" Column="1" />
+      <File FileName="GameObject/Player.cs" Line="24" Column="39" />
+      <File FileName="GameObject/Inventory.cs" Line="33" Column="21" />
+      <File FileName="SwinAdventure/ItemTest.cs" Line="9" Column="4" />
+      <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/SwinAdventure/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/InventoryTest.cs" Line="19" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="Test">
+              <Node name="InventoryTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
