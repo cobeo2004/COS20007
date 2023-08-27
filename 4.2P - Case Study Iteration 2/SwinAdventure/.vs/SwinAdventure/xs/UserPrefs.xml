@@ -2,30 +2,37 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/InventoryTest.cs">
     <Files>
-      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
-      <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/IdentifiableObject.cs" Line="11" Column="47" />
-      <File FileName="GameObject/Program.cs" Line="16" Column="2" />
-      <File FileName="GameObject/GameObject.cs" Line="28" Column="45" />
-      <File FileName="GameObject/IdentifiableObject.cs" Line="18" Column="38" />
-      <File FileName="GameObject/Item.cs" Line="11" Column="1" />
-      <File FileName="GameObject/Player.cs" Line="24" Column="39" />
-      <File FileName="GameObject/Inventory.cs" Line="33" Column="21" />
-      <File FileName="SwinAdventure/ItemTest.cs" Line="9" Column="4" />
-      <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/SwinAdventure/UnitTest1.cs" Line="1" Column="1" />
-      <File FileName="SwinAdventure/InventoryTest.cs" Line="19" Column="25" />
+      <File FileName="SwinAdventure/Usings.cs" />
+      <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/IdentifiableObject.cs" />
+      <File FileName="GameObject/Program.cs" />
+      <File FileName="GameObject/GameObject.cs" />
+      <File FileName="GameObject/IdentifiableObject.cs" />
+      <File FileName="GameObject/Item.cs" />
+      <File FileName="GameObject/Player.cs" />
+      <File FileName="GameObject/Inventory.cs" />
+      <File FileName="SwinAdventure/ItemTest.cs" Line="10" Column="1" />
+      <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/SwinAdventure/UnitTest1.cs" />
+      <File FileName="SwinAdventure/InventoryTest.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/PlayerTest.cs" />
+      <File FileName="SwinAdventure/IdentifiableObjectTest.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SwinAdventure" expanded="True">
-            <Node name="Test">
+          <Node name="SwinAdventure">
+            <Node name="IdentifiableObject" expanded="True" />
+            <Node name="IdentifiableObjectTest" expanded="True" />
+            <Node name="SwinAdventure" expanded="True" />
+            <Node name="Test" expanded="True">
               <Node name="InventoryTest.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True" selected="True" />
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
