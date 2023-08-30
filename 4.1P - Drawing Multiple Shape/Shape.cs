@@ -20,7 +20,7 @@ namespace DrawingProgram
 
         }
 
-        public Shape() : this(Color.RGBAColor(255,0, 255, 255)) { }
+        public Shape() : this(Color.Yellow) { }
 
         public Color color
         {

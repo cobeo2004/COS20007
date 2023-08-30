@@ -16,7 +16,7 @@ namespace DrawingProgram
             _height = height;
         }
 
-        public MyRectangle() : this(Color.RandomRGB(255), 0, 0, 100, 100) { }
+        public MyRectangle() : this(Color.Green, 0, 0, 100, 100) { }
 
         public new int Width
         {

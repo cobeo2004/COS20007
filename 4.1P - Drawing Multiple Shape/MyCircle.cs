@@ -14,7 +14,7 @@ namespace DrawingProgram
             _radius = radius;
         }
 
-        public MyCircle() : this(Color.RandomRGB(255), 0, 0, 30)
+        public MyCircle() : this(Color.Blue, 0, 0, 50)
 		{
 		}
 
@@ -42,10 +42,7 @@ namespace DrawingProgram
         public override bool IsAt(Point2D pt)
         {
             //c = sqrt(a^2 + b^2)
-            double a = pt.X - X;
-            double b = pt.Y - Y;
-            double c = Math.Sqrt((a * a) + (b * b));
-            return c < _radius;
+            return Math.Sqrt((pt.X - X) * (pt.X - X) + (pt.Y - Y) * (pt.Y - Y)) < _radius;
         }
 
         public override void DrawOutline()

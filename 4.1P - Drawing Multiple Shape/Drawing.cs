@@ -65,10 +65,7 @@ namespace DrawingProgram
 		{
 			foreach(Shape s in _shapes)
 			{
-				if (s.IsAt(point))
-					s.Selected = true;
-				else
-					s.Selected = false;
+				s.Selected = s.IsAt(point);
 			}
 		}
 		public void AddShape(Shape s)

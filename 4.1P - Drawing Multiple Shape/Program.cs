@@ -28,33 +28,34 @@ namespace DrawingMultipleShape
                     kindToAdd = ShapeKind.Circle;
                 if (SplashKit.KeyDown(KeyCode.LKey))
                     kindToAdd = ShapeKind.Line;
-                if(SplashKit.MouseDown(MouseButton.LeftButton))
+                if(SplashKit.MouseClicked(MouseButton.LeftButton))
                 {
+                    Shape chosenShape;
                     switch(kindToAdd)
                     {
                         case(ShapeKind.Rectangle):
-                            MyRectangle rectangle = new MyRectangle();
-                            rectangle.X = SplashKit.MouseX();
-                            rectangle.Y = SplashKit.MouseY();
-                            drawing.AddShape(rectangle);
+                            chosenShape = new MyRectangle();
                             break;
                         case (ShapeKind.Circle):
-                            MyCircle circle = new MyCircle();
-                            circle.X = SplashKit.MouseX();
-                            circle.Y = SplashKit.MouseY();
-                            drawing.AddShape(circle);
+                            chosenShape = new MyCircle();
                             break;
                         case (ShapeKind.Line):
-                            MyLine line = new MyLine();
-                            line.X = SplashKit.MouseX();
-                            line.Y = SplashKit.MouseY();
-                            drawing.AddShape(line);
+                            chosenShape = new MyLine();
                             break;
+                        default:
+                            chosenShape = null!;
+                            break;
+                    }
 
+                    if(chosenShape != null)
+                    {
+                        chosenShape.X = SplashKit.MouseX();
+                        chosenShape.Y = SplashKit.MouseY();
+                        drawing.AddShape(chosenShape);
                     }
                 }
 
-                if(SplashKit.MouseDown(MouseButton.RightButton))
+                if(SplashKit.MouseClicked(MouseButton.RightButton))
                 {
                     drawing.SelectShapesAt(SplashKit.MousePosition());
                 }

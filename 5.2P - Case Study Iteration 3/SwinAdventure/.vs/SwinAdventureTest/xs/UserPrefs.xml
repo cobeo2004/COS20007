@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E662AD38-9BF0-4430-B513-3EAB1C235E82}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Item.cs">
+    <Files>
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Bag.cs" />
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Item.cs" Line="1" Column="1" />
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Player.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventureTest" expanded="True">
+            <Node name="SwinAdventure" expanded="True">
+              <Node name="Item.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
