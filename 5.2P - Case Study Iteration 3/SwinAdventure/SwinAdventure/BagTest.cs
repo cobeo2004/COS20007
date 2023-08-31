@@ -14,8 +14,8 @@ public class BagTest
     [SetUp]
     public void Setup()
     {
-        b = new Bag(new string[] { "bag" }, "a bag", "a bag");
-        b1 = new Bag(new string[] { "bag1" }, "a bag1", "a bag1");
+        b = new Bag(new string[] { "bag" }, "bag", "a bag");
+        b1 = new Bag(new string[] { "bag1" }, "bag1", "a bag1");
         sword = new Item(new string[] { "Thanh Kiem", "Cuong Dao Guinsoo", "Sword" }, "sword", "a sword");
         gun = new Item(new string[] { "Sung cua Tran Dan", "gun" }, "gun", "a gun");
         food = new Item(new string[] { "Thien linh tinh qua", "god's food" }, "food", "a food");
@@ -54,10 +54,21 @@ public class BagTest
     [Test]
     public void TestBagFullDescription()
     {
-
+        Assert.That(b.FullDescription, Is.EqualTo("In the bag you can see:\nsword (thanh kiem)\ngun (sung cua tran dan)\n"));
+        Assert.That(b1.FullDescription, Is.EqualTo("In the bag1 you can see:\nfood (thien linh tinh qua)\nfirework (phao hoa)\n"));
     }
 
     [Test]
     public void TestBagInBag()
-    { }
+    {
+        Bag b2 = new Bag(new string[] { "bag2" }, "bag2", "a bag2");
+        b1.Inventory.Put(b2);
+        b2.Inventory.Put(sword);
+
+        Assert.IsTrue(b1.Locate(b2.FirstId) == b2);
+        Assert.IsTrue(b1.Locate(food.FirstId) == food);
+        Assert.IsFalse(b1.Locate(sword.FirstId) == sword);
+        Assert.That(b1.FullDescription, Is.EqualTo("In the bag1 you can see:\nfood (thien linh tinh qua)\nfirework (phao hoa)\nbag2 (bag2)\n"));
+        Assert.That(b2.FullDescription, Is.EqualTo("In the bag2 you can see:\nsword (thanh kiem)\n"));
+    }
 }

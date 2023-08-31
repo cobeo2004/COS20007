@@ -5,7 +5,7 @@ VisualStudioVersion = 25.0.1706.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventureTest", "SwinAdventure\SwinAdventureTest.csproj", "{5033980F-C6EA-4E4C-B485-E12D117D714F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "..\..\4.2P - Case Study Iteration 2\SwinAdventure\GameObject\SwinAdventure.csproj", "{E662AD38-9BF0-4430-B513-3EAB1C235E82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "..\..\SwinAdventureTotal\GameObject\SwinAdventure.csproj", "{0F3789E7-68EA-4A57-88A0-1DF83B122C38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5033980F-C6EA-4E4C-B485-E12D117D714F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5033980F-C6EA-4E4C-B485-E12D117D714F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5033980F-C6EA-4E4C-B485-E12D117D714F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E662AD38-9BF0-4430-B513-3EAB1C235E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E662AD38-9BF0-4430-B513-3EAB1C235E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E662AD38-9BF0-4430-B513-3EAB1C235E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E662AD38-9BF0-4430-B513-3EAB1C235E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3789E7-68EA-4A57-88A0-1DF83B122C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3789E7-68EA-4A57-88A0-1DF83B122C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3789E7-68EA-4A57-88A0-1DF83B122C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3789E7-68EA-4A57-88A0-1DF83B122C38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

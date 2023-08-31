@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SwinAdventure</id>
+    <version>1.0.0</version>
+    <authors>SwinAdventure</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/bin/Debug/net7.0/SwinAdventure.runtimeconfig.json" target="lib/net7.0/SwinAdventure.runtimeconfig.json" />
+    <file src="/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/bin/Debug/net7.0/SwinAdventure.dll" target="lib/net7.0/SwinAdventure.dll" />
+  </files>
+</package>

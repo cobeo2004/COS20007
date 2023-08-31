@@ -18,6 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\4.2P - Case Study Iteration 2\SwinAdventure\GameObject\SwinAdventure.csproj" />
+    <ProjectReference Include="..\..\..\SwinAdventureTotal\GameObject\SwinAdventure.csproj" />
   </ItemGroup>
 </Project>

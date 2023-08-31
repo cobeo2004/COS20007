@@ -988,8 +988,8 @@
     },
     "SwinAdventure/1.0.0": {
       "type": "project",
-      "path": "../../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/SwinAdventure.csproj",
-      "msbuildProject": "../../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/SwinAdventure.csproj"
+      "path": "../../../SwinAdventureTotal/GameObject/SwinAdventure.csproj",
+      "msbuildProject": "../../../SwinAdventureTotal/GameObject/SwinAdventure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1027,8 +1027,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/SwinAdventure.csproj": {
-              "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/SwinAdventure.csproj"
+            "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/SwinAdventureTotal/GameObject/SwinAdventure.csproj": {
+              "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/SwinAdventureTotal/GameObject/SwinAdventure.csproj"
             }
           }
         }

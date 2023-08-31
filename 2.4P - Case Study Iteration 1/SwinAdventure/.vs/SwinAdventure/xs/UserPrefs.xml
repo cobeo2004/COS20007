@@ -1,29 +1,30 @@
 ﻿<Properties StartupConfiguration="{8CE4C69D-E510-45A5-BFC7-ED6169877629}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObject/IdentifiableObject.cs">
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/Usings.cs">
     <Files>
-      <File FileName="SwinAdventure/Usings.cs" />
-      <File FileName="SwinAdventure/UnitTest1.cs" Line="16" Column="60" />
+      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/UnitTest1.cs" />
       <File FileName="SwinAdventure/IdentifiableObjectTest.csproj" />
-      <File FileName="IdentifiableObject/Program.cs" Line="1" Column="1" />
-      <File FileName="IdentifiableObject/IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObject/Program.cs" />
+      <File FileName="IdentifiableObject/IdentifiableObject.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SwinAdventure">
-            <Node name="IdentifiableObject">
-              <Node name="IdentifiableObject.cs" selected="True" />
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="IdentifiableObject" expanded="True" />
+            <Node name="IdentifiableObjectTest" expanded="True">
+              <Node name="Usings.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
