@@ -4,30 +4,22 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/BagTest.cs">
     <Files>
-      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Bag.cs" Line="8" Column="10" />
-      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Item.cs" Line="1" Column="1" />
-      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Player.cs" Line="1" Column="1" />
-      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
-      <File FileName="SwinAdventure/BagTest.cs" Line="72" Column="99" />
-      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/GameObject/Program.cs" Line="7" Column="60" />
+      <File FileName="SwinAdventure/Usings.cs" />
+      <File FileName="SwinAdventure/BagTest.cs" Line="75" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SwinAdventureTest">
-            <Node name="SwinAdventureTest">
-              <Node name="BagTest.cs" selected="True" />
-            </Node>
+          <Node name="SwinAdventureTest" expanded="True">
+            <Node name="SwinAdventure" expanded="True" />
+            <Node name="SwinAdventureTest" expanded="True" />
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="SwinAdventureTest" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
