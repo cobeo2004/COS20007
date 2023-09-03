@@ -1,6 +1,7 @@
 ﻿using System;
 using SplashKitSDK;
 using System.Collections.Generic;
+
 namespace DrawingProgram
 {
 	public class Drawing
@@ -75,6 +76,10 @@ namespace DrawingProgram
 		public void RemoveShape(Shape s)
 		{
 			_shapes.Remove(s);
+		}
+
+		public void Save(string fileName)
+		{	
 		}
 	}
 }
