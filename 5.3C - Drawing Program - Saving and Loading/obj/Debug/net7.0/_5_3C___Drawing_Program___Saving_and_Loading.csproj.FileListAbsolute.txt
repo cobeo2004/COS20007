@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/bin/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/bin/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/bin/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/bin/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/bin/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/refint/_5_3C___Drawing_Program___Saving_and_Loading.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/_5_3C___Drawing_Program___Saving_and_Loading.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/5.3C - Drawing Program - Saving and Loading/obj/Debug/net7.0/ref/_5_3C___Drawing_Program___Saving_and_Loading.dll

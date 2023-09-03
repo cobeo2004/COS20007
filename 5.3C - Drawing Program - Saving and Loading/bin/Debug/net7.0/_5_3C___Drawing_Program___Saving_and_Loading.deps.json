@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "_5_3C___Drawing_Program___Saving_and_Loading/1.0.0": {
+        "runtime": {
+          "_5_3C___Drawing_Program___Saving_and_Loading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_5_3C___Drawing_Program___Saving_and_Loading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
