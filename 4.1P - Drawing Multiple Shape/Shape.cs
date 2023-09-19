@@ -95,6 +95,7 @@ namespace DrawingProgram
         }
 
         public abstract void Draw();
+
         public abstract bool IsAt(Point2D pt);
         public abstract void DrawOutline();
     }

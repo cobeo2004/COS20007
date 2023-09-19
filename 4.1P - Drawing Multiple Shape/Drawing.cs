@@ -77,10 +77,6 @@ namespace DrawingProgram
 		{
 			_shapes.Remove(s);
 		}
-
-		public void Save(string fileName)
-		{	
-		}
 	}
 }
 

@@ -1,28 +1,30 @@
 ﻿<Properties StartupConfiguration="{0765575F-2276-4A53-AF05-6C0AE4D0D171}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DrawingMultipleShape PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyCircle.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shape.cs">
     <Files>
-      <File FileName="Drawing.cs" Line="67" Column="1" />
+      <File FileName="Drawing.cs" Line="79" Column="4" />
       <File FileName="MyLine.cs" Line="62" Column="85" />
-      <File FileName="MyRectangle.cs" Line="19" Column="48" />
+      <File FileName="MyRectangle.cs" Line="11" Column="111" />
       <File FileName="Program.cs" Line="57" Column="1" />
-      <File FileName="Shape.cs" Line="23" Column="44" />
-      <File FileName="MyCircle.cs" Line="45" Column="89" />
+      <File FileName="Shape.cs" Line="19" Column="26" />
+      <File FileName="MyCircle.cs" Line="37" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DrawingMultipleShape">
-            <Node name="DrawingMultipleShape" expanded="True" />
+            <Node name="DrawingMultipleShape">
+              <Node name="Shape.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DrawingMultipleShape PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

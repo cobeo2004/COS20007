@@ -46,7 +46,7 @@ namespace SwinAdventure
 			inventory.Put(sword);
 			inventory.Put(fireWork);
 			Item fetchedItem = inventory.Fetch(sword.FirstId);
-			Assert.IsTrue(fetchedItem == sword);
+			Assert.That(fetchedItem, Is.EqualTo(sword));
 			Assert.IsTrue(inventory.HasItem(sword.FirstId));
 			
 		}
@@ -58,7 +58,7 @@ namespace SwinAdventure
 			inventory.Put(sword);
 			inventory.Put(fireWork);
 			Item takenItem = inventory.Fetch(sword.FirstId);
-			Assert.IsTrue(takenItem == sword);
+			Assert.That(sword, Is.EqualTo(takenItem));
 			Assert.IsTrue(inventory.HasItem(sword.FirstId));
 		}
 

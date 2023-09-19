@@ -4,19 +4,19 @@
   <MonoDevelop.Ide.ItemProperties.__5__3C______Drawing__Program______Saving__and__Loading PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TestDrawing.txt">
     <Files>
-      <File FileName="Program.cs" Line="59" Column="1" />
-      <File FileName="MyCircle.cs" Line="57" Column="29" />
-      <File FileName="MyLine.cs" Line="67" Column="31" />
-      <File FileName="MyRectangle.cs" Line="40" Column="14" />
-      <File FileName="Drawing.cs" Line="87" Column="27" />
-      <File FileName="Shape.cs" Line="103" Column="41" />
-      <File FileName="ExtensionMethods.cs" Line="1" Column="14" />
-      <File FileName="TestDrawing.txt" Line="82" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="MyCircle.cs" />
+      <File FileName="MyLine.cs" />
+      <File FileName="MyRectangle.cs" />
+      <File FileName="Drawing.cs" />
+      <File FileName="Shape.cs" />
+      <File FileName="ExtensionMethods.cs" />
+      <File FileName="TestDrawing.txt" Line="89" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="_5_3C___Drawing_Program___Saving_and_Loading" expanded="True">
+          <Node name="_5_3C___Drawing_Program___Saving_and_Loading">
             <Node name="_5_3C___Drawing_Program___Saving_and_Loading">
               <Node name="TestDrawing.txt" selected="True" />
             </Node>

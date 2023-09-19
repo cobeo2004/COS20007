@@ -37,39 +37,23 @@ namespace SwinAdventure
 		public void TestPlayerLocatesItems()
 		{
 			Item locatedItem = (Item)player.Locate(sword.FirstId);
-			string takenItem = "";
-			string remainsItem = "";
-
-			if(locatedItem == sword)
-			{
-				takenItem = player.Inventory.Take(sword.FirstId).ShortDescription;
-				remainsItem = player.Inventory.ItemList;
-			}
-
-			Assert.AreEqual("sword (thanh kiem)", takenItem);
-			Assert.AreEqual("firework (phao hoa)\n", remainsItem);
+			Assert.That(sword, Is.EqualTo(locatedItem));
 
 		}
 
 		[Test]
 		public void TestPlayerLocatesItself()
 		{
-			GameObject? me = player.Locate("me");
-			GameObject? inventory = player.Locate("inventory");
-			bool result = false;
-
-			if (me == player || me == inventory)
-			{
-				result = true;
-			}
-
-			Assert.IsTrue(result);
+			GameObject me = player.Locate("me");
+			GameObject inventory = player.Locate("inventory");
+			Assert.That(player, Is.EqualTo(me));
+			Assert.That(player, Is.EqualTo(inventory));
 		}
 
 		[Test]
 		public void TestPlayerLocatesNothing()
 		{
-			GameObject? nothing = player.Locate("Bonsoir");
+			GameObject nothing = player.Locate("Bonsoir");
 			Assert.IsNull(nothing);
 		}
 

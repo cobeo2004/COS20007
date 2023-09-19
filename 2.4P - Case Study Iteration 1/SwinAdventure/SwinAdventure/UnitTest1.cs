@@ -49,14 +49,14 @@ namespace SwinAdventure
         [Test]
         public void TestFirstID()
         {
-            Assert.AreEqual("onana", _testIdentifiableObject.FirstId);
-            Assert.AreNotEqual("mount", _testIdentifiableObject.FirstId);
+            Assert.That("onana", Is.EqualTo(_testIdentifiableObject.FirstId));
+            Assert.That("mount", Is.Not.EqualTo(_testIdentifiableObject.FirstId));
         }
 
         [Test]
         public void TestFirstIDWithNoID()
         {
-            Assert.AreEqual("", _testIdentifiableObjectEmpty.FirstId);
+            Assert.That("", Is.EqualTo(_testIdentifiableObjectEmpty.FirstId));
         }
 
         [Test]

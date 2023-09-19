@@ -988,8 +988,8 @@
     },
     "SwinAdventure/1.0.0": {
       "type": "project",
-      "path": "../GameObject/SwinAdventure.csproj",
-      "msbuildProject": "../GameObject/SwinAdventure.csproj"
+      "path": "../../../SwinAdventureTotal/GameObject/SwinAdventure.csproj",
+      "msbuildProject": "../../../SwinAdventureTotal/GameObject/SwinAdventure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1027,8 +1027,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/SwinAdventure.csproj": {
-              "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/4.2P - Case Study Iteration 2/SwinAdventure/GameObject/SwinAdventure.csproj"
+            "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/SwinAdventureTotal/GameObject/SwinAdventure.csproj": {
+              "projectPath": "/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/SwinAdventureTotal/GameObject/SwinAdventure.csproj"
             }
           }
         }
@@ -1080,7 +1080,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
       }
     }
   }

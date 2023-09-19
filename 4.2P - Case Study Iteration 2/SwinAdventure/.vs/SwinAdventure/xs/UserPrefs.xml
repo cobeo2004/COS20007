@@ -1,48 +1,41 @@
-﻿<Properties StartupConfiguration="{EBAC186A-8753-446E-BE41-4967F66B3567}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/InventoryTest.cs">
+﻿<Properties StartupConfiguration="{F2906A05-B7E3-446F-A0E6-DC3F776A595F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/IdentifiableObjectTest.cs">
     <Files>
-      <File FileName="SwinAdventure/Usings.cs" />
+      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
       <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/IdentifiableObject/IdentifiableObject.cs" />
-      <File FileName="GameObject/Program.cs" />
-      <File FileName="GameObject/GameObject.cs" />
-      <File FileName="GameObject/IdentifiableObject.cs" />
-      <File FileName="GameObject/Item.cs" />
-      <File FileName="GameObject/Player.cs" />
-      <File FileName="GameObject/Inventory.cs" />
       <File FileName="SwinAdventure/ItemTest.cs" Line="10" Column="1" />
       <File FileName="../../2.4P - Case Study Iteration 1/SwinAdventure/SwinAdventure/UnitTest1.cs" />
-      <File FileName="SwinAdventure/InventoryTest.cs" Line="1" Column="1" />
-      <File FileName="SwinAdventure/PlayerTest.cs" />
-      <File FileName="SwinAdventure/IdentifiableObjectTest.cs" />
+      <File FileName="SwinAdventure/InventoryTest.cs" Line="56" Column="4" />
+      <File FileName="SwinAdventure/PlayerTest.cs" Line="33" Column="18" />
+      <File FileName="SwinAdventure/IdentifiableObjectTest.cs" Line="51" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SwinAdventure">
+          <Node name="SwinAdventure" expanded="True">
             <Node name="IdentifiableObject" expanded="True" />
             <Node name="IdentifiableObjectTest" expanded="True" />
             <Node name="SwinAdventure" expanded="True" />
-            <Node name="Test" expanded="True">
-              <Node name="InventoryTest.cs" selected="True" />
-            </Node>
+            <Node name="Test" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SwinAdventure" expanded="True" selected="True" />
+          <Node name="SwinAdventure">
+            <Node name="Test" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObjectTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>

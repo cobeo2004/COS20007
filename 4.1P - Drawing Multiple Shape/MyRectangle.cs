@@ -8,7 +8,7 @@ namespace DrawingProgram
         private int _width;
         private int _height;
 
-        public MyRectangle(Color color, float x, float y, int width, int height) : base(color)
+        public MyRectangle(Color color, float x, float y, int width, int height) : base(color, 0, 0, 100, 100)
         {
             X = x;
             Y = y;

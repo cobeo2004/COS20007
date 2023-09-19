@@ -18,6 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GameObject\SwinAdventure.csproj" />
+    <ProjectReference Include="..\..\..\SwinAdventureTotal\GameObject\SwinAdventure.csproj" />
   </ItemGroup>
 </Project>
