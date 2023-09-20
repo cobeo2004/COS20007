@@ -13,10 +13,6 @@ namespace DrawingProgram
         public Shape(Color color)
         {
             _color = color;
-            _x = 0;
-            _y = 0;
-            _width = 100;
-            _height = 100;
 
         }
 
