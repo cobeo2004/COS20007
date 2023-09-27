@@ -1,0 +1,15 @@
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.deps.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.runtimeconfig.json
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/bin/Debug/net7.0/SemesterTest.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.csproj.AssemblyReference.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.AssemblyInfoInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.AssemblyInfo.cs
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.csproj.CoreCompileInputs.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/refint/SemesterTest.dll
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.pdb
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/SemesterTest.genruntimeconfig.cache
+/Users/cobeo/Desktop/Codes/SchoolWork/COS20007 - OOP/T1 - Semester Test/SemesterTest/SemesterTest/obj/Debug/net7.0/ref/SemesterTest.dll
