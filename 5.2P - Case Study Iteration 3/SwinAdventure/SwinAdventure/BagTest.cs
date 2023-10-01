@@ -40,8 +40,8 @@ public class BagTest
     [Test]
     public void TestBagLocateSelf()
     {
-        Assert.IsTrue(b.Locate("bag") == b);
-        Assert.IsTrue(b1.Locate(b1.FirstId) == b1);
+        Assert.That(b, Is.EqualTo(b.Locate("bag")));
+        Assert.That(b1, Is.EqualTo(b1.Locate(b1.FirstId)));
     }
 
     [Test]
@@ -65,9 +65,9 @@ public class BagTest
         b1.Inventory.Put(b2);
         b2.Inventory.Put(sword);
 
-        Assert.IsTrue(b1.Locate(b2.FirstId) == b2);
-        Assert.IsTrue(b1.Locate(food.FirstId) == food);
-        Assert.IsFalse(b1.Locate(sword.FirstId) == sword);
+        Assert.That(b2, Is.EqualTo(b1.Locate(b2.FirstId)));
+        Assert.That(food, Is.EqualTo(b1.Locate(food.FirstId)));
+        Assert.That(sword, Is.EqualTo(b.Locate(sword.FirstId)));
         Assert.That(b1.FullDescription, Is.EqualTo("In the bag1 you can see:\nfood (thien linh tinh qua)\nfirework (phao hoa)\nbag2 (bag2)\n"));
         Assert.That(b2.FullDescription, Is.EqualTo("In the bag2 you can see:\nsword (thanh kiem)\n"));
     }

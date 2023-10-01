@@ -16,7 +16,8 @@ namespace SwinAdventure
 				return this;
 			else if (_inventory.HasItem(id))
 				return _inventory.Fetch(id);
-			return null!;
+			else
+				return null!;
 		}
 
 		public override string FullDescription

@@ -1,29 +1,18 @@
 ﻿<Properties StartupConfiguration="{B049C8C2-FC8D-4291-AFE5-44075196A207}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemesterTest/Program.cs">
+    <Files>
+      <File FileName="SemesterTest/Program.cs" Line="15" Column="52" />
+      <File FileName="SemesterTest/FileSystem.cs" />
+      <File FileName="SemesterTest/Folder.cs" />
+      <File FileName="SemesterTest/File.cs" />
+      <File FileName="SemesterTest/Thing.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="SemesterTest/Folder.cs">
-    <Files>
-      <File FileName="SemesterTest/Program.cs" Line="17" Column="1" />
-      <File FileName="SemesterTest/FileSystem.cs" Line="26" Column="3" />
-      <File FileName="SemesterTest/Folder.cs" Line="29" Column="10" />
-      <File FileName="SemesterTest/File.cs" Line="24" Column="3" />
-      <File FileName="SemesterTest/Thing.cs" Line="19" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="SemesterTest" expanded="True">
-            <Node name="SemesterTest">
-              <Node name="Folder.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.SemesterTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
