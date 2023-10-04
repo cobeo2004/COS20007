@@ -20,6 +20,10 @@ namespace SwinAdventure
 
             switch(text.Length)
             {
+                case 1:
+                    containerInventory = player;
+                    itemID = "me";
+                    break;
                 case 3:
                     if (text[1].ToLower() != "at")
                     {
@@ -29,6 +33,9 @@ namespace SwinAdventure
                     itemID = text[2];
                     break;
                 case 5:
+                    if (text[3].ToLower() != "in")
+                        return "Which one do you want to look at ?";
+
                     containerInventory = FetchContainer(player, text[4]);
                     if(containerInventory == null)
                     {

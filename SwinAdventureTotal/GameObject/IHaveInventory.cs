@@ -7,7 +7,7 @@ namespace SwinAdventure
 		public string Name
 		{
 			get;
-		}
+		}		
 	}
 }
 
