@@ -9,7 +9,7 @@ global using System.Linq;
 */
 
 
-namespace SwinAdventure
+namespace SwinAdventureTest
 {
 	public class PlayerTest
 	{
@@ -37,7 +37,7 @@ namespace SwinAdventure
 		public void TestPlayerLocatesItems()
 		{
 			Item locatedItem = (Item)player.Locate(sword.FirstId);
-			Assert.That(sword, Is.EqualTo(locatedItem));
+			Assert.That(locatedItem, Is.EqualTo(sword));
 
 		}
 

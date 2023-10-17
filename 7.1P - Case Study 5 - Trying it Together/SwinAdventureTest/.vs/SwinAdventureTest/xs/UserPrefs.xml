@@ -1,27 +1,33 @@
 ﻿<Properties StartupConfiguration="{760C84CC-1B6F-4C47-B1C7-B126608295A4}|Default">
-  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventureTest/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../SwinAdventureTotal/GameObject/LookCommand.cs">
     <Files>
       <File FileName="SwinAdventureTest/Program.cs" Line="58" Column="1" />
-      <File FileName="../../SwinAdventureTotal/GameObject/Program.cs" Line="8" Column="1" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Program.cs" />
+      <File FileName="../../SwinAdventureTotal/GameObject/GameObject.cs" Line="1" Column="1" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Location.cs" Line="1" Column="1" />
+      <File FileName="../../SwinAdventureTotal/GameObject/LookCommand.cs" Line="1" Column="1" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Inventory.cs" Line="1" Column="1" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Path.cs" Line="1" Column="1" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Player.cs" Line="16" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SwinAdventureTest" expanded="True">
-            <Node name="SwinAdventureTest">
-              <Node name="Program.cs" selected="True" />
+          <Node name="SwinAdventureTest">
+            <Node name="SwinAdventure">
+              <Node name="LookCommand.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

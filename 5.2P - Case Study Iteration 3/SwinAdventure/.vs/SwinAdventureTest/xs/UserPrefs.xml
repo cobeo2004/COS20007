@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{5033980F-C6EA-4E4C-B485-E12D117D714F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/BagTest.cs">
     <Files>
-      <File FileName="SwinAdventure/Usings.cs" Line="1" Column="1" />
-      <File FileName="SwinAdventure/BagTest.cs" Line="46" Column="1" />
+      <File FileName="SwinAdventure/Usings.cs" />
+      <File FileName="SwinAdventure/BagTest.cs" Line="70" Column="66" />
       <File FileName="../../SwinAdventureTotal/GameObject/Bag.cs" Line="13" Column="21" />
     </Files>
     <Pads>
@@ -10,20 +13,21 @@
         <State name="__root__">
           <Node name="SwinAdventureTest" expanded="True">
             <Node name="SwinAdventure" expanded="True" />
-            <Node name="SwinAdventureTest" expanded="True" />
+            <Node name="SwinAdventureTest">
+              <Node name="BagTest.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="SwinAdventureTest" selected="True" />
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

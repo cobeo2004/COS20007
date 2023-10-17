@@ -12,12 +12,11 @@ namespace SwinAdventure
             IHaveInventory containerInventory;
             string itemID;
             string err = "Error at look command!";
-
             if (text[0].ToLower() != "look")
             {
-                return err;
+                return err + "\n" + "Must be the 'look' keyword";
             }
-
+            
             switch(text.Length)
             {
                 case 1:
@@ -26,22 +25,29 @@ namespace SwinAdventure
                     break;
                 case 3:
                     if (text[1].ToLower() != "at")
-                    {
+                        return err + "\n" + "Must be the 'at' keyword";
+                    else if (text[2].ToLower() == "")
                         return "Which one do you want to look at ?";
+                    else
+                    {
+                        containerInventory = player;
+                        itemID = text[2];
                     }
-                    containerInventory = player;
-                    itemID = text[2];
                     break;
                 case 5:
                     if (text[3].ToLower() != "in")
-                        return "Which one do you want to look at ?";
-
-                    containerInventory = FetchContainer(player, text[4]);
-                    if(containerInventory == null)
+                        return err + "\n" + "Must be the 'in' keyword";
+                    else if (text[4].ToLower() == "")
+                        return $"Which one do you want to look at?";
+                    else
                     {
-                        return "Could not find Item: " + text[4];
+                        containerInventory = FetchContainer(player, text[4]);
+                        if (containerInventory == null)
+                        {
+                            return "Could not find Item: " + text[4];
+                        }
+                        itemID = text[2];
                     }
-                    itemID = text[2];
                     break;
                 default:
                     return err;
@@ -50,12 +56,12 @@ namespace SwinAdventure
             return LookAtIn(itemID, containerInventory);
         }
 
-        public IHaveInventory FetchContainer(Player p, string containerId)
+        private IHaveInventory FetchContainer(Player p, string containerId)
         {
             return (IHaveInventory)p.Locate(containerId);
         }
 
-        public string LookAtIn(string thingId, IHaveInventory containter)
+        private string LookAtIn(string thingId, IHaveInventory containter)
         {
             if (containter.Locate(thingId) == null)
                 return $"Could not find items: {thingId}";

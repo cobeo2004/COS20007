@@ -1,10 +1,9 @@
-// #include <iostream>
-// #include <string>
-// #include <sstream>
-// #include <iomanip>
-// #include <thread>
-// #include <chrono>
-#include "main.h"
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <iomanip>
+#include <thread>
+#include <chrono>
 
 namespace CounterClass
 {
@@ -15,10 +14,6 @@ namespace CounterClass
         std::string _name;
 
     public:
-        Counter(const std::string &name) : _name(name), _count(0)
-        {
-        }
-
         Counter(const std::string &name, int count) : _name(name), _count(count)
         {
         }
@@ -62,9 +57,9 @@ namespace ClockClass
     public:
         Clock()
         {
-            _second = new CounterClass::Counter("second");
-            _minute = new CounterClass::Counter("minute");
-            _hour = new CounterClass::Counter("hour");
+            _second = new CounterClass::Counter("second", 0);
+            _minute = new CounterClass::Counter("minute", 0);
+            _hour = new CounterClass::Counter("hour", 0);
         }
 
         void Tick()
@@ -135,11 +130,10 @@ int main(int argc, char **argv)
 {
     ClockClass::Clock *c = new ClockClass::Clock();
 
-    while (true)
+    for (int i = 0; i <= 86400; i++)
     {
         std::cout << c->GetCurrentTime() << std::endl;
         c->Tick();
-        std::this_thread::sleep_for(std::chrono::seconds(1));
     }
     return 0;
 }

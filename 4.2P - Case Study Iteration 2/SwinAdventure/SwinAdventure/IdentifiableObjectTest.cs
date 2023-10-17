@@ -8,7 +8,7 @@ global using System.Linq;
 
  */
 
-namespace SwinAdventure
+namespace SwinAdventureTest
 {
     [TestFixture]
     public class IdentifiableObjectTest

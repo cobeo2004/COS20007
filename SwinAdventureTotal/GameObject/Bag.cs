@@ -30,7 +30,10 @@ namespace SwinAdventure
 
 		public Inventory Inventory
 		{
-			get => _inventory;
+			get
+			{
+				return _inventory;
+			}
 		}
 	}
 }

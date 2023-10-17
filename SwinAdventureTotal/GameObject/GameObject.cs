@@ -21,7 +21,7 @@ namespace SwinAdventure
             }
         }
 
-        public string ShortDescription
+        public virtual string ShortDescription
         {
             get
             {

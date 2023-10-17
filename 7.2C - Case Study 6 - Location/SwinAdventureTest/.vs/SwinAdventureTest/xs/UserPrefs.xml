@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{AC7073A2-1F3C-484E-A602-DC9D8ADDF93B}|Default">
+  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventureTest/Usings.cs">
+    <Files>
+      <File FileName="../../SwinAdventureTotal/GameObject/Location.cs" />
+      <File FileName="../../SwinAdventureTotal/GameObject/LookCommand.cs" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Player.cs" />
+      <File FileName="SwinAdventureTest/Usings.cs" Line="2" Column="28" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Program.cs" />
+      <File FileName="../../6.1P - Case Study Iteration 4/SwinAdventure/SwinAdventure/UnitTest1.cs" Line="88" Column="2" />
+      <File FileName="SwinAdventureTest/LocationTest.cs" Line="3" Column="31" />
+      <File FileName="../../6.1P - Case Study Iteration 4/SwinAdventure/SwinAdventure/Usings.cs" Line="1" Column="1" />
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/SwinAdventure/PlayerTest.cs" Line="12" Column="28" />
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/SwinAdventure/IdentifiableObjectTest.cs" Line="11" Column="28" />
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/SwinAdventure/Usings.cs" Line="2" Column="28" />
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/SwinAdventure/InventoryTest.cs" Line="11" Column="28" />
+      <File FileName="../../4.2P - Case Study Iteration 2/SwinAdventure/SwinAdventure/ItemTest.cs" Line="11" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventureTest" expanded="True">
+            <Node name="SwinAdventure" expanded="True" />
+            <Node name="SwinAdventureTest" expanded="True">
+              <Node name="Usings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventureTest" expanded="True">
+            <Node name="SwinAdventureTest" expanded="True">
+              <Node name="SwinAdventureTest" expanded="True">
+                <Node name="LookCommandTest" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SwinAdventureTest" expanded="True">
+              <Node name="SwinAdventureTest" expanded="True">
+                <Node name="LocationTests" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Test" expanded="True">
+              <Node name="SwinAdventureTest" expanded="True">
+                <Node name="PlayerTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

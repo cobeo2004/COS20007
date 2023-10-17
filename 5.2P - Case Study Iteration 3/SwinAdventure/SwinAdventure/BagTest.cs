@@ -31,24 +31,24 @@ public class BagTest
     [Test]
     public void TestBagLocatesItems()
     { 
-        Assert.IsTrue(b.Locate(sword.FirstId)== sword);
-        Assert.IsTrue(b1.Locate(fireWork.FirstId)== fireWork);
-        Assert.IsTrue(b.Inventory.HasItem(sword.FirstId));
-        Assert.IsTrue(b1.Inventory.HasItem(fireWork.FirstId));
+        Assert.That(sword, Is.EqualTo(b.Locate("Cuong Dao Guinsoo")));
+        Assert.That(fireWork, Is.EqualTo(b1.Locate("Jinx")));
+        Assert.IsTrue(b.Inventory.HasItem("Sword"));
+        Assert.IsTrue(b1.Inventory.HasItem("Phao Hoa"));
     }
 
     [Test]
     public void TestBagLocateSelf()
     {
         Assert.That(b, Is.EqualTo(b.Locate("bag")));
-        Assert.That(b1, Is.EqualTo(b1.Locate(b1.FirstId)));
+        Assert.That(b1, Is.EqualTo(b1.Locate("bag1")));
     }
 
     [Test]
     public void TestBagLocatesNothing()
     {
-        Assert.IsNull(b.Locate(fireWork.FirstId));
-        Assert.IsNull(b1.Locate(sword.FirstId));
+        Assert.IsNull(b.Locate("Jinx"));
+        Assert.IsNull(b1.Locate("Cuong Dao Guinsoo"));
     }
 
     [Test]
@@ -65,9 +65,9 @@ public class BagTest
         b1.Inventory.Put(b2);
         b2.Inventory.Put(sword);
 
-        Assert.That(b2, Is.EqualTo(b1.Locate(b2.FirstId)));
-        Assert.That(food, Is.EqualTo(b1.Locate(food.FirstId)));
-        Assert.That(sword, Is.EqualTo(b.Locate(sword.FirstId)));
+        Assert.That(b2, Is.EqualTo(b1.Locate("bag2")));
+        Assert.That(food, Is.EqualTo(b1.Locate("god's food")));
+        Assert.That(sword, Is.EqualTo(b.Locate("Cuong Dao Guinsoo")));
         Assert.That(b1.FullDescription, Is.EqualTo("In the bag1 you can see:\nfood (thien linh tinh qua)\nfirework (phao hoa)\nbag2 (bag2)\n"));
         Assert.That(b2.FullDescription, Is.EqualTo("In the bag2 you can see:\nsword (thanh kiem)\n"));
     }

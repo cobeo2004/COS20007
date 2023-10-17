@@ -57,6 +57,14 @@ namespace SwinAdventure
 				return listOfItems;
 			}
 		}
+
+		public int Count
+		{
+			get
+			{
+				return _items.Count;
+			}
+		}
 	}
 }
 
