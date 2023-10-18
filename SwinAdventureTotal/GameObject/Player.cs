@@ -59,8 +59,9 @@ namespace SwinAdventure
 
 		public void Move(Path pth)
 		{
-			if (pth.Destination != null)
-				_location = pth.Destination;
+			if (pth.EndLocation != null)
+				CurrentLocation = pth.EndLocation;
+			Console.WriteLine(pth.FullDescription);
 		}
 	}
 }

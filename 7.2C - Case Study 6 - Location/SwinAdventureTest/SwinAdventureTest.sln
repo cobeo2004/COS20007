@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "..\..\Swin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventureTest", "..\..\6.1P - Case Study Iteration 4\SwinAdventure\SwinAdventure\SwinAdventureTest.csproj", "{1C2CEA00-B4E3-4855-B06B-70E29F8CB809}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\..\4.2P - Case Study Iteration 2\SwinAdventure\SwinAdventure\Test.csproj", "{5A010CCD-9DFE-44E0-879D-5C05A4397723}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{1C2CEA00-B4E3-4855-B06B-70E29F8CB809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2CEA00-B4E3-4855-B06B-70E29F8CB809}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C2CEA00-B4E3-4855-B06B-70E29F8CB809}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5A010CCD-9DFE-44E0-879D-5C05A4397723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A010CCD-9DFE-44E0-879D-5C05A4397723}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A010CCD-9DFE-44E0-879D-5C05A4397723}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A010CCD-9DFE-44E0-879D-5C05A4397723}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

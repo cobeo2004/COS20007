@@ -1,21 +1,22 @@
 ﻿using System;
 namespace SwinAdventure
 {
-	public class MoveCommand : Command
-	{
-		public MoveCommand() : base(new string[] {"move"})
-		{
-		}
+    public class MoveCommand : Command
+    {
+        public MoveCommand() : base(new string[] { "move", "go", "head", "leave"})
+        {
+        }
 
         public override string Execute(Player p, string[] text)
         {
-            string err = "Error occured in move input:\n";
             string direction;
 
-            switch(text.Length)
+            switch (text.Length)
             {
                 case 1:
-                    return err + "Select location that you wanted to move!\n";
+                    if (AreYou(text[0]) == false)
+                        return "Error, command should be: move, go, head, leave\n";
+                    return "Select location that you wanted to move!\n";
                 case 2:
                     direction = text[1].ToLower();
                     break;
@@ -23,24 +24,24 @@ namespace SwinAdventure
                     direction = text[2].ToLower();
                     break;
                 default:
-                    return err;
+                    return "Invalid move command!";
             }
 
             GameObject path = p.CurrentLocation.Locate(direction);
 
             if (path == null)
-                return err + "Got null when finding direction!\n";
+                return "Error\n" + "Got null when finding direction!\n";
             else
             {
                 if (path.GetType() == typeof(Path))
                 {
-                    p.Move(path as Path);
-                    return "You have moved to " + path.FirstId + "via " + path.Name + "to the " + p.CurrentLocation.Name + ".\r\n" + "Description: " + p.CurrentLocation.FullDescription;
+                    p.Move((Path) path);
+                    //return "You have moved to " + path.FirstId + " via " + path.Name + " to the " + p.CurrentLocation.Name + ".\r\n" + "Description: " + p.CurrentLocation.FullDescription;
+                    return $"\nCurrent location: {path.Name}\nDescription: {p.CurrentLocation.FullDescription}";
                 }
                 else
-                    return err + "Could not find the given path: " + path.Name;
+                    return "Error: " + "Could not find the given path: " + path.Name;
             }
         }
     }
 }
-

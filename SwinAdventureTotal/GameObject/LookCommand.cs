@@ -20,9 +20,7 @@ namespace SwinAdventure
             switch(text.Length)
             {
                 case 1:
-                    containerInventory = player;
-                    itemID = "me";
-                    break;
+                    return err + "\n" + "Must be the 'at' keyword";
                 case 3:
                     if (text[1].ToLower() != "at")
                         return err + "\n" + "Must be the 'at' keyword";
@@ -43,14 +41,12 @@ namespace SwinAdventure
                     {
                         containerInventory = FetchContainer(player, text[4]);
                         if (containerInventory == null)
-                        {
                             return "Could not find Item: " + text[4];
-                        }
                         itemID = text[2];
                     }
                     break;
                 default:
-                    return err;
+                    return err + "\nI don't know how to look like that!";
             }
 
             return LookAtIn(itemID, containerInventory);

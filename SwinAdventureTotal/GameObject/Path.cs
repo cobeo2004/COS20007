@@ -1,54 +1,40 @@
 ﻿using System;
+
 namespace SwinAdventure
 {
-	public class Path : GameObject
-	{
-		private bool _isBlock;
-		private Location _source, _destination;
+    public class Path : GameObject
+    {
+        private Location _dest;
+        public Path(string[] ids, string name, string desc) : base(ids, name, desc)
+        {
+        }
 
-		public Path(string[] identifier, string name, string description, Location source, Location dest) : base(identifier, name, description)
-		{
-			_source = source;
-			_destination = dest;
-			_isBlock = false;
-		}
+        public Location EndLocation
+        {
+            get
+            {
+                return _dest;
+            }
+            set
+            {
+                _dest = value;
+            }
+        }
 
-		public Location Destination
-		{
-			get
-			{
-				return _destination;
-			}
-		}
-
-		public Location Source
-		{
-			get
-			{
-				return _source;
-			}
-		}
+        public override string FullDescription
+        {
+            get
+            {
+                return $"Passing through {Name.ToLower()}({base.FullDescription})...\nArrived at {_dest.Name}!";
+            }
+        }
 
         public override string ShortDescription
-		{
-			get
-			{
-				return $"Location: {Name}";
-			}
-		}
-
-		public bool IsBlocked
-		{
-			get
-			{
-				return _isBlock;
-			}
-
-			set
-			{
-				_isBlock = value;
-			}
-		}
+        {
+            get
+            {
+                return Name;
+            }
+        }
     }
 }
-

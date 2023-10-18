@@ -1,7 +1,9 @@
-﻿namespace SwinAdventureTest
+﻿
+namespace SwinAdventureTest
 {
     public class PathTests
     {
+        private Player _simon;
         private Location _testLocationA;
         private Location _testLocationB;
         private Path _testPath;
@@ -9,27 +11,45 @@
         [SetUp]
         public void Setup()
         {
-            _testLocationA = new Location("BA Building", "The Business Art building of Swinburne University of Technology");
-            _testLocationB = new Location("EN Building", "The Engineering building of Swinburne University of Technology");
-            _testPath = new Path(new string[] { "north" }, "Hallway", "A hallway", _testLocationA, _testLocationB);
+            _simon = new Player("Simon", "Madness");
+            _testLocationA = new Location("EN Building", "The Business Art building of Swinburne University of Technology");
+            _testLocationB = new Location("ATC Building", "The Advanced Technology Centre of Swinburne University of Technology");
+            _testPath = new Path(new string[] { "north" }, "A skyhall", "A skyhall that connects BA and ATC");
+            _testPath.StartLocation = _testLocationA;
+            _testPath.EndLocation = _testLocationB;
         }
 
         [Test]
-        public void TestPathLocateDestination()
+        public void TestMovesPlayerToEndLocation()
         {
-            Assert.That(_testPath.Destination, Is.EqualTo(_testLocationB));
+            _testLocationB.AddPathToLocation(_testPath);
+            _simon.Move(_testPath);
+            Assert.That(_simon.CurrentLocation, Is.EqualTo(_testLocationB));
+        }
+
+        [Test]
+        public void TestPathShortDescription()
+        {
+            Assert.That(_testPath.ShortDescription, Is.EqualTo("A skyhall"));
         }
 
         [Test]
         public void TestPathFullDescription()
         {
-            Assert.That(_testPath.FullDescription, Is.EqualTo("A hallway"));
+            Assert.That(_testPath.FullDescription, Is.EqualTo("Passing through a skyhall(A skyhall that connects BA and ATC)...\nYou have arrived at ATC Building!"));
         }
 
         [Test]
-        public void TestPathLocating()
+        public void TestLocationLocatesPath()
         {
+            _testLocationA.AddPathToLocation(_testPath);
             Assert.That(_testLocationA.Locate("north"), Is.EqualTo(_testPath));
+        }
+
+        [Test]
+        public void PathIsNotNull()
+        {
+            Assert.NotNull(_testPath.AreYou("north"));
         }
 
     }

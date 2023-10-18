@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventureTest", "SwinAd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "..\..\SwinAdventureTotal\GameObject\SwinAdventure.csproj", "{98336B34-F27E-40AE-BBE8-53151DA46700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventureTest", "..\..\7.2C - Case Study 6 - Location\SwinAdventureTest\SwinAdventureTest\SwinAdventureTest.csproj", "{8DC2C0B5-6ED1-401D-9270-FBA4CC9C6864}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventureTest", "..\..\7.2C - Case Study 6 - Location\SwinAdventureTest\SwinAdventureTest\SwinAdventureTest.csproj", "{444CC161-BDCC-4248-8260-F91D753D340C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{98336B34-F27E-40AE-BBE8-53151DA46700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98336B34-F27E-40AE-BBE8-53151DA46700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98336B34-F27E-40AE-BBE8-53151DA46700}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8DC2C0B5-6ED1-401D-9270-FBA4CC9C6864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DC2C0B5-6ED1-401D-9270-FBA4CC9C6864}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DC2C0B5-6ED1-401D-9270-FBA4CC9C6864}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DC2C0B5-6ED1-401D-9270-FBA4CC9C6864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444CC161-BDCC-4248-8260-F91D753D340C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444CC161-BDCC-4248-8260-F91D753D340C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444CC161-BDCC-4248-8260-F91D753D340C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444CC161-BDCC-4248-8260-F91D753D340C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

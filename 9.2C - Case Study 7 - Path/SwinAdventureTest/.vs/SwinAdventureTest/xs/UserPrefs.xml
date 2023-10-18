@@ -1,41 +1,43 @@
 ﻿<Properties StartupConfiguration="{CDB4AC7D-ABB9-4DA6-A3A7-73889737531C}|Default">
-  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../SwinAdventureTotal/GameObject/Path.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../7.2C - Case Study 6 - Location/SwinAdventureTest/SwinAdventureTest/LocationTest.cs">
     <Files>
-      <File FileName="../../SwinAdventureTotal/GameObject/IHaveInventory.cs" Line="1" Column="1" />
-      <File FileName="../../SwinAdventureTotal/GameObject/GameObject.cs" Line="27" Column="14" />
-      <File FileName="../../SwinAdventureTotal/GameObject/Inventory.cs" />
-      <File FileName="../../SwinAdventureTotal/GameObject/Path.cs" Line="4" Column="15" />
-      <File FileName="../../SwinAdventureTotal/GameObject/Item.cs" />
-      <File FileName="../../SwinAdventureTotal/GameObject/MoveCommand.cs" Line="38" Column="169" />
-      <File FileName="../../SwinAdventureTotal/GameObject/Player.cs" Line="41" Column="4" />
-      <File FileName="SwinAdventureTest/Usings.cs" Line="3" Column="37" />
-      <File FileName="SwinAdventureTest/PathTest.cs" Line="7" Column="19" />
-      <File FileName="../../SwinAdventureTotal/GameObject/Program.cs" Line="32" Column="1" />
-      <File FileName="../../SwinAdventureTotal/GameObject/LookCommand.cs" Line="1" Column="1" />
-      <File FileName="../../7.2C - Case Study 6 - Location/SwinAdventureTest/SwinAdventureTest/LocationTest.cs" Line="22" Column="52" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Path.cs" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Command.cs" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Location.cs" />
+      <File FileName="../../SwinAdventureTotal/GameObject/Program.cs" />
+      <File FileName="SwinAdventureTest/PathTest.cs" />
+      <File FileName="../../SwinAdventureTotal/GameObject/GameObject.cs" />
+      <File FileName="../../7.2C - Case Study 6 - Location/SwinAdventureTest/SwinAdventureTest/LocationTest.cs" Line="60" Column="2" />
+      <File FileName="../../7.2C - Case Study 6 - Location/SwinAdventureTest/SwinAdventureTest/Usings.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinAdventureTest" expanded="True">
             <Node name="SwinAdventure" expanded="True">
-              <Node name="Path.cs" selected="True" />
+              <Node name="Dependencies" selected="True" />
             </Node>
+            <Node name="SwinAdventureTest" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SwinAdventureTest" selected="True" />
+          <Node name="SwinAdventureTest">
+            <Node name="SwinAdventureTest">
+              <Node name="SwinAdventureTest" selected="True" />
+            </Node>
+            <Node name="SwinAdventureTest" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

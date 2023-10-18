@@ -58,7 +58,7 @@
         public void TestLookAtGemInNoBag()
         {
             _player.Inventory.Take("bag");
-            Assert.That(_lookCommand.Execute(_player1, new string[] { "look", "at", "gem", "in", _player.FirstId }), Is.EqualTo("Could not find items: gem"));
+            Assert.That(_lookCommand.Execute(_player1, new string[] { "look", "at", "gem", "in", "bag" }), Is.EqualTo("Could not find Item: bag"));
         }
 
         [Test]

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{718D4B70-6819-453C-ADCB-A75E0E44447A}|Default">
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventureTest/CommandProcessor.cs">
+    <Files>
+      <File FileName="SwinAdventureTest/UnitTest1.cs" Line="18" Column="27" />
+      <File FileName="SwinAdventureTest/Usings.cs" Line="3" Column="13" />
+      <File FileName="../../SwinAdventureTotal/GameObject/CommandProcessor.cs" Line="18" Column="12" />
+      <File FileName="../../SwinAdventureTotal/GameObject/LookCommand.cs" Line="49" Column="37" />
+      <File FileName="../../SwinAdventureTotal/GameObject/MoveCommand.cs" Line="27" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventureTest" expanded="True">
+            <Node name="SwinAdventureTest">
+              <Node name="CommandProcessor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventureTest">
+            <Node name="SwinAdventureTest" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SwinAdventureTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
